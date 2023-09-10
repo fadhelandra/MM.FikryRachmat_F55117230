@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MahasiswaApp</string>
+    <string name="logout">Logout</string>
+    <string name="google_maps_key">AIzaSyCZ-1jJ9WmHq2n0p7a0EG4Bz9Gm8CLi3E8\n</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
